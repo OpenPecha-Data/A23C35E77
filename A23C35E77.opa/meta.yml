@@ -1,0 +1,22 @@
+id: A23C35E77
+title: Toh_193-The_Prophecy_of_Sri_Mahadevi-v1
+type: translation
+pechas:
+- IADC82D2A
+- I414BAC4F
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-07-23T01:58:33.491Z'
+  creationid: dirk
+  eft-text-id: UT22084-061-013
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_193-The_Prophecy_of_Sri_Mahadevi-v1
+alignment_to_base:
+  IADC82D2A/D39A: 3CD3
+  I414BAC4F/2ACB: 3CD3
